@@ -2,7 +2,7 @@
 
 ## Step 1: Basic Commands to access the data
 
-#remove all the objects stored
+#remove all the objects stored__
 rm(list=ls())
 
 #set current working directory
