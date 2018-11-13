@@ -5,27 +5,27 @@
 #remove all the objects stored <br />
 rm(list=ls())
 
-#set current working directory
-setwd("G:/Analytics/Edwisor/Edwisor/Predictive Analytics using R/R code")
+#set current working directory <br />
+setwd("D:/Analytics/Codes")
 
-#Current working directory
+#Current working directory <br />
 getwd()
 
-#instaling packages
-install.packages("sqldf")
+#instaling packages <br />
+install.packages("dplyr")
 
-#Install multiple packages at a time
+#Install multiple packages at a time <br />
 install.packages(c("dplyr","plyr","reshape","ggplot2","data.table"))
 
-##Load data in R
-#reading CSV
+## Load data in R
+#reading CSV <br />
 data = read.csv("MissingInfo-V2.csv", header = T) 
 
-#reading Excel sheet
+#reading Excel sheet <br />
 library(xlsx)
 data_excel = read.xlsx("MissingInfo-V2.xlsx", sheetIndex = 1)
 
-#reading .txt file as dataframe
+#reading .txt file as dataframe <br />
 data_text = read.delim("MissingInfo-V2.txt", sep = "\t", header = T) 
 
 #We are considering mtcars dataset to understand R commands
