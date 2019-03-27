@@ -21,7 +21,7 @@ https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
 
 https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/
 
-## Day 1: 27th November 2018
+## Day 3: 27th November 2018
 
 **Today's Work** : Tried to understand the Evalution Metrics for Classification Problem - R package to calculate and its interpretation.
 
