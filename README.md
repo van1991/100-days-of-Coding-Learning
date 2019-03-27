@@ -26,3 +26,5 @@ https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-cla
 **Today's Work** : Tried to understand the Evalution Metrics for Classification Problem - R package to calculate and its interpretation.
 
 **Link to the topic** : https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
+                        https://medium.com/hugo-ferreiras-blog/confusion-matrix-and-other-metrics-in-machine-learning-894688cb1c0a
+                        
