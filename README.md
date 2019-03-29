@@ -15,7 +15,7 @@ a. Understanding dataset using Descriptive Stats
 
 b. Understanding dataset using Visualization - Univariant Analysis
 
-**Link of the work** : https://github.com/khanhnamle1994/applied-machine-learning/blob/master/Machine-Learning-R/README.md
+**Link to the topic** : https://github.com/khanhnamle1994/applied-machine-learning/blob/master/Machine-Learning-R/README.md
 Refer to **"Data Preparation in R"**
 
 ## Day 3: 25th March 2019
@@ -26,14 +26,16 @@ Then learnt how to treat imbalanced dataset for classification modelling which l
 
 **Disclaimer:** SMOTE & ROSE help in bring the predicted probabilities close to 0.9 but it need not neccessarily mean better model accuracy/results.
 
-https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
+**Link to the topic** https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
+                      https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/
 
-https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/
-
-## Day 3: 27th November 2018
+## Day 4: 27th November 2018
 
 **Today's Work** : Tried to understand the Evalution Metrics for Classification Problem - R package to calculate and its interpretation.
 
 **Link to the topic** : https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
                         https://medium.com/hugo-ferreiras-blog/confusion-matrix-and-other-metrics-in-machine-learning-894688cb1c0a
+                        http://r-statistics.co/Information-Value-With-R.html
+
+The last link is related to creating ROC curves and KS-plots to evaluate the model performances
                         
