@@ -29,7 +29,7 @@ Then learnt how to treat imbalanced dataset for classification modelling which l
 **Link to the topic** https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
                       https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/
 
-## Day 4: 27th November 2018
+## Day 4: 27th March 2019
 
 **Today's Work** : Tried to understand the Evalution Metrics for Classification Problem - R package to calculate and its interpretation.
 
@@ -39,3 +39,8 @@ Then learnt how to treat imbalanced dataset for classification modelling which l
 
 The last link is related to creating ROC curves and KS-plots to evaluate the model performances
                         
+## Day 5: 28th November 2019
+
+** Today's Work** : Handling imbalanced dataset in supervised learning using family of SMOTE algorithm. After getting familiar with SMOTE, i read a bit more on other variations of SMOTE.
+
+** Link to the topic** : https://www.datasciencecentral.com/profiles/blogs/handling-imbalanced-data-sets-in-supervised-learning-using-family
