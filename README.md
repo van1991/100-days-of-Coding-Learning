@@ -14,6 +14,8 @@
 a. Understanding dataset using Descriptive Stats
 
 b. Understanding dataset using Visualization - Univariant Analysis
+https://github.com/khanhnamle1994/applied-machine-learning/blob/master/Machine-Learning-R/understand_data_in_R_visualization.Rmd
+
 
 **Link to the topic** : https://github.com/khanhnamle1994/applied-machine-learning/blob/master/Machine-Learning-R/README.md
 Refer to **"Data Preparation in R"**
