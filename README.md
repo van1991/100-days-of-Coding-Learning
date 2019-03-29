@@ -16,10 +16,15 @@ a. Understanding dataset using Descriptive Stats
 b. Understanding dataset using Visualization - Univariant Analysis
 
 **Link of the work** : https://github.com/khanhnamle1994/applied-machine-learning/blob/master/Machine-Learning-R/README.md
-Refer to **"Data Preparation in R"
+Refer to **"Data Preparation in R"**
 
-Then i also did a bit of research on relation between the range of predicted probability of logistic regression and the % of 1s in the dataset. 
-Now trying to learn how to treat imbalanced dataset for classification modelling
+## Day 3: 25th March 2019
+
+**Today's Work** : a bit of research on relation between the range of predicted probability of logistic regression and the % of 1s in the dataset and eventually concluded that it is due to imbalance of minority class in dataset.
+
+Then learnt how to treat imbalanced dataset for classification modelling which led to improved predicted probability ranges.
+
+**Disclaimer:** SMOTE & ROSE help in bring the predicted probabilities close to 0.9 but it need not neccessarily mean better model accuracy/results.
 
 https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
 
