@@ -41,6 +41,6 @@ The last link is related to creating ROC curves and KS-plots to evaluate the mod
                         
 ## Day 5: 28th November 2019
 
-** Today's Work** : Handling imbalanced dataset in supervised learning using family of SMOTE algorithm. After getting familiar with SMOTE, i read a bit more on other variations of SMOTE.
+**Today's Work** : Handling imbalanced dataset in supervised learning using family of SMOTE algorithm. After getting familiar with SMOTE, i read a bit more on other variations of SMOTE.
 
-** Link to the topic** : https://www.datasciencecentral.com/profiles/blogs/handling-imbalanced-data-sets-in-supervised-learning-using-family
+**Link to the topic** : https://www.datasciencecentral.com/profiles/blogs/handling-imbalanced-data-sets-in-supervised-learning-using-family
