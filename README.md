@@ -42,7 +42,7 @@ Then learnt how to treat imbalanced dataset for classification modelling which l
 
 The last link is related to creating ROC curves and KS-plots to evaluate the model performances
                         
-## Day 5: 28th November 2019
+## Day 5: 28th March 2019
 
 **Today's Work** : Handling imbalanced dataset in supervised learning using family of SMOTE algorithm. After getting familiar with SMOTE, i read a bit more on other variations of SMOTE.
 
