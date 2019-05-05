@@ -54,6 +54,7 @@ The last link is related to creating ROC curves and KS-plots to evaluate the mod
 Applying these techniques on Titanic dataset on Kaggle.
 
 **Link to the topic** : https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+                        https://mlwave.com/kaggle-ensembling-guide/
 
 
 
