@@ -56,11 +56,12 @@ Applying these techniques on Titanic dataset on Kaggle.
 **Link to the topic** : https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
                         https://mlwave.com/kaggle-ensembling-guide/
 
-## Day 6: 9th May 2019
+## Day 7: 9th May 2019
 
 **Today's Work** : How to write User-defined Functions in Python
 
 **Link to the topic** : https://towardsdatascience.com/python-basics-functions-ed7c35e194a9
+
 ***Note*** : Complete this article
 
 
