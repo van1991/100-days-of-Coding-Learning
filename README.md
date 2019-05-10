@@ -64,5 +64,13 @@ Applying these techniques on Titanic dataset on Kaggle.
 
 ***Note*** : Complete this article
 
+## Day 8: 10th May 2019
+
+**Today's Work** : Whenever you want to use Pandas and don't remember the sytanx - Use below link
+
+**Link to the topic** : https://www.listendata.com/2017/12/python-pandas-tutorial.html
+
+
+
 
 
