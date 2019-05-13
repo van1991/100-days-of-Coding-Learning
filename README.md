@@ -77,7 +77,7 @@ Applying these techniques on Titanic dataset on Kaggle.
 
 **Description** : This has a detailed Python notebook. It contains good basic codes on Data Exploratory Analysis on Python. Refer to it for refering to syntax.
 
-**My Performance ** : I didn't do that well in this Hackathon.I got AUC = 0.59103 and Rank 1 got 0.6731. 
+**My Performance** : I didn't do that well in this Hackathon.I got AUC = 0.59103 and Rank 1 got 0.6731. 
 
 **Link to the topic** : https://github.com/sk48880/LTFS-Data-Science-Finhack---Anlytics-Vidhya
 
