@@ -81,5 +81,21 @@ Applying these techniques on Titanic dataset on Kaggle.
 
 **Link to the topic** : https://github.com/sk48880/LTFS-Data-Science-Finhack---Anlytics-Vidhya
 
+## Day 10: 21st June 2019
+
+**Today's Work** : Creating Interactive Dashboards in R using FlexDashboard
+
+**Description** : I am putting down all the imp links used to create the dashboard in R.
+
+
+**Link to the topic** : https://rmarkdown.rstudio.com/flexdashboard/
+
+***Refer to the source codes of sample interactive dashboards***
+
+ https://beta.rstudioconnect.com/jjallaire/htmlwidgets-ggplotly-geoms/htmlwidgets-ggplotly-geoms.html#geom_point
+ 
+ https://beta.rstudioconnect.com/jjallaire/htmlwidgets-d3heatmap/htmlwidgets-d3heatmap.html
+ 
+ https://www.kaggle.com/philippsp/interactive-dashboards-in-r
 
 
