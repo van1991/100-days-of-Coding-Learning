@@ -99,3 +99,13 @@ Applying these techniques on Titanic dataset on Kaggle.
  https://www.kaggle.com/philippsp/interactive-dashboards-in-r
 
 
+## Day 11: 24th July 2020
+
+**Today's Work** : Basics of NLP on Colab
+
+**Description** : Currently i have put the medium article and the python code. i will put more details soon
+
+**Link to the topic** : https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
+
+** Python code for the same: https://github.com/van1991/100-days-of-Coding-Learning/blob/master/natural_language_processing_tutorial.ipynb
+
